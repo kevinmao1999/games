@@ -2,6 +2,6 @@
 
 ### in progress:
 - tic tac toe
-<br>
+
 ### completed:
-<br>
+
